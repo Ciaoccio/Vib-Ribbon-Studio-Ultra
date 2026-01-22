@@ -21,7 +21,7 @@
 
 ## 🚀 Come Iniziare / How to Install
 
-1. Vai nella sezione **[Releases](https://github.com/tuo-username/Vib-Ribbon-Studio-Ultra/releases)** di questa pagina.
+1. Vai nella sezione **[Releases](https://github.com/Ciaoccio/Vib-Ribbon-Studio-Ultra/releases/tag/Release)** di questa pagina.
 2. Scarica l'ultimo installer: `Vibri_Studio_Setup_Pro.exe`.
 3. Avvia l'installazione e segui le istruzioni a schermo.
 4. **Nota**: Il setup installerà automaticamente tutti i componenti necessari, incluso il motore di conversione FFmpeg.
