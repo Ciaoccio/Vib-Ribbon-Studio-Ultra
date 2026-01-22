@@ -1,7 +1,7 @@
 # 🐰 Vib-Ribbon Studio Ultra
 **Developed by Ciaoccio**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-white.svg)](https://github.com/tuo-username/Vib-Ribbon-Studio-Ultra/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-white.svg)](https://github.com/Ciaoccio/Vib-Ribbon-Studio-Ultra/releases/tag/Release)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Vib-Ribbon Studio Ultra** è lo strumento definitivo per personalizzare la tua esperienza su Vib-Ribbon. Converti facilmente i tuoi brani preferiti in un formato compatibile con l'emulatore o l'hardware originale PS1, gestendo automaticamente playlist e file CUE.
